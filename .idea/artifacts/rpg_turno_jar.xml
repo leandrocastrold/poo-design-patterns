@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rpg-turno:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rpg_turno_jar</output-path>
+    <root id="archive" name="rpg-turno.jar">
+      <element id="module-output" name="rpg-turno" />
+    </root>
+  </artifact>
+</component>

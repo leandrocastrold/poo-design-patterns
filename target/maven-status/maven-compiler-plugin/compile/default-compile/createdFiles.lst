@@ -1,0 +1,11 @@
+RPGTurnApplication.class
+GameManager$ActorsType.class
+Models\Warrior.class
+behaviors\EnemyCombatBehavior.class
+behaviors\IABehaviour.class
+Interfaces\Combat.class
+Models\Goblin.class
+behaviors\CombatBehavior.class
+Interfaces\ArtificialInteligence.class
+Models\Character.class
+GameManager.class
